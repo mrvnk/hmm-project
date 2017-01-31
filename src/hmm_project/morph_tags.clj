@@ -1,4 +1,4 @@
-;;NN
+;;NN-oder so
 (def suffix_tags
   (set {
     {:lemma "keit" :pos "NN" :position "E"}
